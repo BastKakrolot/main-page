@@ -53,7 +53,7 @@ const particlesLoaded = async container => {
             <Tag color="orange">threejs</Tag>、
             <Tag color="green">Taro</Tag>、
             <Tag color="cyan">ReactNative</Tag>、
-            <Tag color="purple">Next</Tag>
+            <Tag color="purple">Next</Tag>、
             <Tag color="blue">uniApp</Tag>，从独立开发到团队管理都有着一定的经验，对开源分享亦有浓厚兴趣。</span>
           <Divider style="font-size: 12px; color: #999">物以类聚 人以群分</Divider>
         </div>
